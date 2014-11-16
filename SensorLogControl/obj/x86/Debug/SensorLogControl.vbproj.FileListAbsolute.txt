@@ -1,0 +1,15 @@
+C:\Users\7p\documents\visual studio 2010\Projects\SensorLogControl\SensorLogControl\bin\Debug\SensorLogControl.exe.config
+C:\Users\7p\documents\visual studio 2010\Projects\SensorLogControl\SensorLogControl\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\7p\documents\visual studio 2010\Projects\SensorLogControl\SensorLogControl\obj\x86\Debug\SensorLogControl.Form1.resources
+C:\Users\7p\documents\visual studio 2010\Projects\SensorLogControl\SensorLogControl\obj\x86\Debug\SensorLogControl.Resources.resources
+C:\Users\7p\documents\visual studio 2010\Projects\SensorLogControl\SensorLogControl\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\7p\documents\visual studio 2010\Projects\SensorLogControl\SensorLogControl\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\7p\documents\visual studio 2010\Projects\SensorLogControl\SensorLogControl\bin\Debug\Database1.mdf
+C:\Users\7p\documents\visual studio 2010\Projects\SensorLogControl\SensorLogControl\bin\Debug\Database1_log.ldf
+C:\Users\7p\documents\visual studio 2010\Projects\SensorLogControl\SensorLogControl\bin\Debug\SensorLogControl.exe
+C:\Users\7p\documents\visual studio 2010\Projects\SensorLogControl\SensorLogControl\bin\Debug\SensorLogControl.pdb
+C:\Users\7p\documents\visual studio 2010\Projects\SensorLogControl\SensorLogControl\bin\Debug\SensorLogControl.xml
+C:\Users\7p\documents\visual studio 2010\Projects\SensorLogControl\SensorLogControl\obj\x86\Debug\SensorLogControl.exe
+C:\Users\7p\documents\visual studio 2010\Projects\SensorLogControl\SensorLogControl\obj\x86\Debug\SensorLogControl.xml
+C:\Users\7p\documents\visual studio 2010\Projects\SensorLogControl\SensorLogControl\obj\x86\Debug\SensorLogControl.pdb
+C:\Users\7p\documents\visual studio 2010\Projects\SensorLogControl\SensorLogControl\obj\x86\Debug\SensorLogControl.SplashScreen1.resources
